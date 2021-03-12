@@ -13,7 +13,7 @@ The USGS provides earthquake data in a number of different formats, updated ever
 **The visualization can be seen here: [Earthquake Visualization](https://mirahmed07.github.io/leaflet-challenge/)**
 
 ### Notes
-* A `static` folder contains a CSS file. The user need to create a `config.js` file which would hold the MapBox API key that will need to be entered by the user. This is **required** to be able to view the visualization.
+* A `static` folder contains a CSS file and in image file with the screenshot. The user need to create a `config.js` file which would hold the MapBox API key that will need to be entered by the user. This is **required** to be able to view the visualization.
 * A `Leaflet-Step-1` folder contains the `logic.js` file for the basic visualization.
 * A `Leaflet-Step-2` folder contains the `advanced.js` and `index.html` files for the advanced visualization.
 * The root folder contains the basic visualization `index.html`.
